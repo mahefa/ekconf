@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.ekconf.feature_1.0.0.jar" id="com.ekconf.feature" version="1.0.0" os="linux" nl="en" arch="x86">
+   <feature url="features/com.ekconf_1.0.0.jar" id="com.ekconf" version="1.0.0" os="linux">
       <category name="com.ekconf.category"/>
    </feature>
    <category-def name="com.ekconf.category" label="Ekconf">
       <description>
-         An Eclipse plug-in for configuring the Linux kernel or Buildroot.
+         Ekconf, an Eclipse plug-in for configuring the Linux Kernel or Buildroot.
       </description>
    </category-def>
 </site>
