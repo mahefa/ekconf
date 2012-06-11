@@ -36,7 +36,7 @@ where it cannot be deleted easily. (Example: /opt/lib/)
 Restart Eclipse, go to Window > Preferences > Ekconf, in the field
 "libekconfig.so", enter the path to libekconfig.so or browse it.
 
-Finaly, enjoy :)
+Finally, enjoy :)
 
 
 About me
