@@ -1,11 +1,13 @@
 EKCONF
 ======
-Tiana Rakotovao <rakotovaomahefa@gmail.com>
+Tiana Rakotovao <rakotovaomahefa@gmail.com>.
 
 
-Ekconf is an Eclipse plug-in for configuring the Linux kernel or Buildroot.
+Ekconf is an Eclipse plug-in for configuring the Linux kernel or Buildroot. Its
+GUI is based on SWT/JFace and Eclipse frameworks, but it uses the same
+Kconfig parser as the Linux Kernel.
 
-Have a look at the demo [here][2] and [here][3] to see how it works.
+Look at the demo [here][2] and [here][3] to know how to use it.
 
 
 Requirements
@@ -40,10 +42,13 @@ Finaly, enjoy :)
 About me
 --------
 
-I am a final (5th) year student in Computer Science and Engineering.
-Feel free to mail me your feedback at <rakotovaomahefa@gmail.com>.
+I am a student in final (5th) year in Computer Science and Engineering. You can
+find my resume [here][4]. Feel free to mail me your feedback at 
+<rakotovaomahefa@gmail.com>.
+
 
 [1]: https://github.com/downloads/mahefa/ekconf/libekconfig.so.1.0.0
 [2]: http://cloud.github.com/downloads/mahefa/ekconf/ekconf_snapshot_1.jpg
 [3]: http://cloud.github.com/downloads/mahefa/ekconf/ekconf_snapshot_2.jpg
+[4]: http://mahefa.github.com/ekconf/resume/Tiana_RAKOTOVAO_Resume.pdf
 
