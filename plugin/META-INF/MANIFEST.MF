@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ekconf
+Bundle-SymbolicName: ekconf;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: ekconf.EkconfActivator
+Bundle-Vendor: Tiana Rakotovao
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jface.text,
+ org.eclipse.core.resources,
+ org.eclipse.ui.ide,
+ org.eclipse.ui.editors
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
