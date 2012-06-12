@@ -41,7 +41,7 @@ About me
 --------
 
 I am a student in final (5th) year in Computer Science and Engineering. You can
-find my resume [here][4]. Feel free to mail me your feedback at 
+find my resume [here][4]. Feel free to send me your feedback at 
 <rakotovaomahefa@gmail.com>.
 
 
