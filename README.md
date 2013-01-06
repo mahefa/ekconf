@@ -1,6 +1,6 @@
 EKCONF
 ======
-Tiana Rakotovao <rakotovaomahefa@gmail.com>.
+Tiana Rakotovao
 
 
 Ekconf is an Eclipse plug-in for configuring the Linux kernel or Buildroot. Its
@@ -37,16 +37,6 @@ Restart Eclipse, go to Window > Preferences > Ekconf, in the field
 Finally, enjoy :)
 
 
-About me
---------
-
-I am a student in final (5th) year in Computer Science and Engineering. You can
-find my resume [here][4]. Feel free to send me your feedback at 
-<rakotovaomahefa@gmail.com>.
-
-
 [1]: https://github.com/downloads/mahefa/ekconf/libekconfig.so.1.0.0
 [2]: http://cloud.github.com/downloads/mahefa/ekconf/ekconf_snapshot_1.jpg
 [3]: http://cloud.github.com/downloads/mahefa/ekconf/ekconf_snapshot_2.jpg
-[4]: http://mahefa.github.com/ekconf/resume/Tiana_RAKOTOVAO_Resume.pdf
-
