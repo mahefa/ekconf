@@ -1,13 +1,15 @@
 EKCONF
 ======
-Tiana Rakotovao
+Tiana Rakotovao Andriamahefa
 
 
 Ekconf is an Eclipse plug-in for configuring the Linux kernel or Buildroot. Its
 GUI is based on SWT, JFace and the Eclipse framework, but it uses the same
 Kconfig parser as the Linux Kernel.
 
-Look at the demo [here][2] and [here][3] to know how to use it.
+Screenshots
+-----------
+[Menu][2] and [main window][3] 
 
 
 Requirements
@@ -28,11 +30,11 @@ Use the Update Manager of Eclipse to install Ekconf :
 - Click "OK", then select "Ekconf" in the available software list.
 - Click "Next" and continue the installation until the end.
 
-You also need to download [libekconfig.so][1]. Save it into a folder
-where it cannot be deleted easily. (Example: /opt/lib/)
+Then, download [libekconfig.so][1]. Save it into a folder
+(rember the path)
 
 Restart Eclipse, go to Window > Preferences > Ekconf, in the field
-"libekconfig.so", enter the path to libekconfig.so or browse it.
+"libekconfig.so", browse to libekconfig.so
 
 Finally, enjoy :)
 
