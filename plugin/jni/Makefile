@@ -1,7 +1,7 @@
 #
 # Ekconf, an Eclipe plug-in for configuring the Linux kernel or Buildroot.
 # 
-# Copyright (C) 2012 Tiana Rakotovao <rakotovaomahefa@gmail.com>
+# Copyright (C) 2012 Tiana Rakotovao Andriamahefa <rkmahefa@gmail.com>
 # 
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
